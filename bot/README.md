@@ -19,4 +19,4 @@ INFO:root:Model loaded successfully!
 ```
 Можно обращаться к телеграм боту
 
-Ps: Вы должны будите настроить под себя [бота](https://youtu.be/ayUBlf9pvn0?si=-xdyJJHcTxQEMTZB)
+Ps: Вы должны будете настроить под себя [бота](https://youtu.be/ayUBlf9pvn0?si=-xdyJJHcTxQEMTZB)
