@@ -1,0 +1,6 @@
+seq2seq/easse
+seq2seq/RuAdapt
+seq2seq/RuSimpleSentEval
+# seq2seq/tseval
+seq2seq/checkpoints/rut5-base-complication.pt
+seq2seq/checkpoints/rut5-base-pls.pt
