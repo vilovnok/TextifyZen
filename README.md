@@ -3,7 +3,7 @@
 Сервис для автоматического упрощения текстов на русском языке. 
 
 **Корпус**: [RuSimpleSentEval](https://github.com/dialogue-evaluation/RuSimpleSentEval) + [RuAdapt](https://github.com/Digital-Pushkin-Lab/RuAdapt).
-Во всяком случае можно использовать [dataset](https://huggingface.co/datasets/roneneldan/TinyStories).
+Во всяком случае можно использовать [dataset](https://huggingface.co/datasets/r1char9/simplification).
 
 
 **Модель:** t5 (несколько вариантов моделей). 
