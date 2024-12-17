@@ -15,7 +15,6 @@
 
 **Обертка**: cервис обернут в **телеграм-бота**, который делает запросы к API модели на huggingface ([r1char9/ruT5-base-pls](https://api-inference.huggingface.co/models/r1char9/ruT5-base-pls)). 
 Код в папке `bot`.
-Также в разработке расширение для Google Chrome. Подробности в папке `extension`.  
 API сервиса упакован в docker-контенейнер. Подробности в `app`.
 
 
